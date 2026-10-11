@@ -2,7 +2,6 @@
 Welcome to my book, The Heartist
 
 # Chapter 1
-/Users/zahra/Desktop/theheartist/_chapter1.md
 The lady stood in front of the art store, her jacket beginning to darken from the downpour of the storm. 
 Lightning flashed in the gray sky, just before thunder exclaimed its presence throughout the sky. 
 She barely felt the signs of the storm coming, as she had slowly begun to not feel anything but a numbing ache in her chest.  
