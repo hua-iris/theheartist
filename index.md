@@ -1,5 +1,5 @@
 Here are my other pages:
-[Chapters]
+*[Chapters]
 (chapter1.md)
 
 # Introduction
