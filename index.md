@@ -2,6 +2,7 @@
 Welcome to my book, The Heartist!
 Read each chapter each chapter individually, or scroll down to read my book to the latest update!
 * [Chapter 1](chapter1.md)
+* [Chapter 2](chapter2.md)
 
 # Chapter 1
 The lady stood in front of the art store, her jacket beginning to darken from the downpour of the storm. 

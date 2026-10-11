@@ -13,6 +13,7 @@ book:
   chapters:
     - index.md
     - chapter1.md
+    - chapter2.md
 
 format:
   html:
