@@ -1,3 +1,7 @@
+# markdown
+
+Here are my other pages:
+*[Chapter 1](chapter1.md)
 # Introduction
 Welcome to my book, The Heartist
 
