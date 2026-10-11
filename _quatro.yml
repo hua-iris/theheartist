@@ -1,0 +1,19 @@
+project:
+  type: book
+
+book:
+  title: "My Creative Book Title"
+  author: "Author Name"
+  date: "2026"
+  sidebar:
+    style: "docked"
+    search: true
+  chapters:
+    - index.md
+    - chapter1.md
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+
