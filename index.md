@@ -1,11 +1,10 @@
-# markdown
-
 Here are my other pages:
 *[Chapter 1](chapter1.md)
 # Introduction
-Welcome to my book, The Heartist
+Welcome to my book, The Heartist!
+Read each chapter each chapter individually, or scroll down to read my book to the latest update!
 
-# Chapter 1
+# (chapter1.md)
 The lady stood in front of the art store, her jacket beginning to darken from the downpour of the storm. 
 Lightning flashed in the gray sky, just before thunder exclaimed its presence throughout the sky. 
 She barely felt the signs of the storm coming, as she had slowly begun to not feel anything but a numbing ache in her chest.  
