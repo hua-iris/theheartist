@@ -1,7 +1,5 @@
 Here are my other pages:
-*[Chapters]
-(chapter1.md)
-
+*[Chapters](chapter1.md)
 # Introduction
 Welcome to my book, The Heartist!
 Read each chapter each chapter individually, or scroll down to read my book to the latest update!
