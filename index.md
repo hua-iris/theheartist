@@ -12,3 +12,4 @@ The shop opened suddenly, and a bubbly woman with apple cheeks held the door ope
 “Oh dear, love”, the woman said. “Come inside, even if you’re not going to buy anything. You’ll get sick if you stay out in the rain."
 
 # Chapter 2
+The store smelled like the forest in the middle of the night.
